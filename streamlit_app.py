@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+st.caption("Aplicación recuperada y corregida | Nombre: TU NOMBRE COMPLETO | Matrícula: TU MATRÍCULA")
 intro = st.Page(
     "Background/intro.py",
     title="Introduction",
